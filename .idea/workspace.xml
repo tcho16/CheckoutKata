@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cee10751-c989-431e-8c32-8d4940eaba0a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ITVKata" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sZMql8ehzIEajw4YgTJZkcmvOH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="service.commands" />
+      <recent name="service.costlogic" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="service.costlogic" />
+      <recent name="service.commands" />
+      <recent name="service.ScannerValidations" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="service.scannervalidations" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CheckoutCommandTest.shouldTotalTheCostDespiteBeingPassedSKUThatDoesNotExist">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ITVKata" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddAnItemCommandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ITVKata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.commands.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service.commands" />
+      <option name="MAIN_CLASS_NAME" value="service.commands.AddAnItemCommandTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyingItemValidationTest.shouldNotPassWhenEmptyElementIsPassedIn" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="ITVKata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.ScannerValidations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service.ScannerValidations" />
+      <option name="MAIN_CLASS_NAME" value="service.ScannerValidations.BuyingItemValidationTest" />
+      <option name="METHOD_NAME" value="shouldNotPassWhenEmptyElementIsPassedIn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckoutCommandTest.shouldTotalTheCostDespiteBeingPassedSKUThatDoesNotExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ITVKata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.commands.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service.commands" />
+      <option name="MAIN_CLASS_NAME" value="service.commands.CheckoutCommandTest" />
+      <option name="METHOD_NAME" value="shouldTotalTheCostDespiteBeingPassedSKUThatDoesNotExist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateSpecialOfferCommandTest.shouldCorrectlyAddASpecialOfferToAnItemWithAnExistingSpecialOffer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ITVKata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.commands.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service.commands" />
+      <option name="MAIN_CLASS_NAME" value="service.commands.UpdateSpecialOfferCommandTest" />
+      <option name="METHOD_NAME" value="shouldCorrectlyAddASpecialOfferToAnItemWithAnExistingSpecialOffer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateSpecialOfferCommandTest.shouldCorrectlyAddASpecialOfferToAnItemWithNoExistingSpecialOffer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ITVKata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.commands.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service.commands" />
+      <option name="MAIN_CLASS_NAME" value="service.commands.UpdateSpecialOfferCommandTest" />
+      <option name="METHOD_NAME" value="shouldCorrectlyAddASpecialOfferToAnItemWithNoExistingSpecialOffer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CheckoutCommandTest.shouldTotalTheCostDespiteBeingPassedSKUThatDoesNotExist" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.UpdateSpecialOfferCommandTest.shouldCorrectlyAddASpecialOfferToAnItemWithAnExistingSpecialOffer" />
+        <item itemvalue="JUnit.UpdateSpecialOfferCommandTest.shouldCorrectlyAddASpecialOfferToAnItemWithNoExistingSpecialOffer" />
+        <item itemvalue="JUnit.AddAnItemCommandTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cee10751-c989-431e-8c32-8d4940eaba0a" name="Default Changelist" comment="" />
+      <created>1621075850793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621075850793</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="306" y="42" key="#Project_Structure" timestamp="1621082775468">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="306" y="42" key="#Project_Structure/62.0.1304.768@62.0.1304.768" timestamp="1621082775468" />
+    <state x="519" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1621105296542">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="519" y="68" key="#com.intellij.ide.util.MemberChooser/62.0.1304.768@62.0.1304.768" timestamp="1621105296542" />
+    <state x="510" y="243" width="412" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1621171695014">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="510" y="243" width="412" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/62.0.1304.768@62.0.1304.768" timestamp="1621171695014" />
+    <state x="504" y="214" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1621080856430">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="504" y="214" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/62.0.1304.768@62.0.1304.768" timestamp="1621080856430" />
+    <state x="145" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1621099574039">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="145" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/62.0.1304.768@62.0.1304.768" timestamp="1621099574039" />
+    <state x="394" y="58" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1621083410311">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="394" y="58" key="#com.intellij.unscramble.UnscrambleDialog/62.0.1304.768@62.0.1304.768" timestamp="1621083410311" />
+    <state width="1261" height="269" key="GridCell.Tab.0.bottom" timestamp="1621173835471">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="269" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1621173835471" />
+    <state width="1261" height="269" key="GridCell.Tab.0.center" timestamp="1621173835471">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="269" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1621173835471" />
+    <state width="1261" height="269" key="GridCell.Tab.0.left" timestamp="1621173835471">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="269" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1621173835471" />
+    <state width="1261" height="269" key="GridCell.Tab.0.right" timestamp="1621173835471">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="269" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1621173835471" />
+    <state width="1261" height="230" key="GridCell.Tab.1.bottom" timestamp="1621112865614">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="230" key="GridCell.Tab.1.bottom/62.0.1304.768@62.0.1304.768" timestamp="1621112865614" />
+    <state width="1261" height="230" key="GridCell.Tab.1.center" timestamp="1621112865614">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="230" key="GridCell.Tab.1.center/62.0.1304.768@62.0.1304.768" timestamp="1621112865614" />
+    <state width="1261" height="230" key="GridCell.Tab.1.left" timestamp="1621112865613">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="230" key="GridCell.Tab.1.left/62.0.1304.768@62.0.1304.768" timestamp="1621112865613" />
+    <state width="1261" height="230" key="GridCell.Tab.1.right" timestamp="1621112865614">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="230" key="GridCell.Tab.1.right/62.0.1304.768@62.0.1304.768" timestamp="1621112865614" />
+    <state x="410" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1621169407905">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="410" y="208" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1621169407905" />
+    <state x="79" y="335" width="962" height="515" key="dock-window-1" timestamp="1621084402069">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="79" y="335" width="962" height="515" key="dock-window-1/62.0.1304.768@62.0.1304.768" timestamp="1621084402069" />
+    <state x="461" y="0" width="607" height="768" key="find.popup" timestamp="1621106825204">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="461" y="0" width="607" height="768" key="find.popup/62.0.1304.768@62.0.1304.768" timestamp="1621106825204" />
+    <state x="420" y="12" key="refactoring.ChangeSignatureDialog" timestamp="1621088243317">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="420" y="12" key="refactoring.ChangeSignatureDialog/62.0.1304.768@62.0.1304.768" timestamp="1621088243317" />
+    <state x="370" y="172" key="run.anything.popup" timestamp="1621105495028">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="370" y="172" key="run.anything.popup/62.0.1304.768@62.0.1304.768" timestamp="1621105495028" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/service/commands/CheckoutCommand.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/service/commands/CheckoutCommand.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
